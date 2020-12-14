@@ -8,9 +8,22 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertinkotr&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrtsntrk41&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mrtsntrk41&redirect=true)
 
 
 
 [website]: https://mertsenturk.net
+[course]: https://mertsenturk.net
+[twitter]: https://twitter.com/mrtsntrk41
+[youtube]: https://youtube.com/mrtsntrk
+[instagram]: https://instagram.com/mrtsntrk
+[linkedin]: https://www.linkedin.com/in/mrtsntrk/
