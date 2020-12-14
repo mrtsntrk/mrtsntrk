@@ -1,8 +1,5 @@
-.vercel
+venv
+__pycache__
+.cache*
+env
 .env
-node_modules
-package-lock.json
-*.lock
-.vscode/
-.idea/
-coverage
