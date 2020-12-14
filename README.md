@@ -1,2 +1,1 @@
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/playlist/50RmGra723R0m9NCRKhMSc)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrtsntrk41&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
