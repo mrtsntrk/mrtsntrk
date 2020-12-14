@@ -1,4 +1,4 @@
-### Hi there, I'm Mert ŞENTÜRK [My Web Site][website] 👋
+<center>### Hi there, I'm Mert ŞENTÜRK [My Web Site][website] 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/mrtsntrk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrtsntrk/)
 
@@ -11,7 +11,7 @@
 [<img align="left" alt="Mert ŞENTÜRK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mert ŞENTÜRK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-</br>
+</br></br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrtsntrk41&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mrtsntrk41&redirect=true)
 
@@ -22,7 +22,7 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=mertinkotr&show_icons=true&count_private=true&hide=contribs,issues" alt="mertinkotr's github stats" /></br>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertinkotr&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
-</details>
+</details></center>
 
 [website]: https://mertsenturk.net
 [course]: https://mertsenturk.net
