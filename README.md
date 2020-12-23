@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=blue)
 ![jQuery](https://img.shields.io/badge/jquery-cD1?style=for-the-badge&logo=jquery&logoColor=blue)
 </details>
+
 ### Connect with me:
 
 [<img align="left" alt="mertsenturk.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
