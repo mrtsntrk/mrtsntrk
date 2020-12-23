@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/mrtsntrk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrtsntrk/)
 
-![Csharp](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)
+![Csharp](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=csharp)
 
 ### Connect with me:
 
