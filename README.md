@@ -5,7 +5,7 @@
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
   
-![Csharp](https://img.shields.io/badge/csharp-cD1?style=for-the-badge&logo=csharp)
+![Csharp](https://img.shields.io/badge/csharp-cD1?style=for-the-badge&logo=C sharp)
 ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/html5-cD1?style=for-the-badge&logo=html5&logoColor=blue)
 ![CSS3](https://img.shields.io/badge/css3-cD1?style=for-the-badge&logo=css3&logoColor=blue)
