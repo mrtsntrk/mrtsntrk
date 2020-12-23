@@ -14,6 +14,14 @@
 ![jQuery](https://img.shields.io/badge/jquery-cD1?style=for-the-badge&logo=jquery&logoColor=blue)
 </details>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=mertinkotr&show_icons=true&count_private=true&hide=contribs,issues" alt="mertinkotr's github stats" /></br>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertinkotr&layout=compact&hide=html,css" alt="My Top Langs" />
+</p>
+</details>
+
 ### Connect with me:
 
 [<img align="left" alt="mertsenturk.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -27,14 +35,6 @@
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrtsntrk41&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mrtsntrk41&redirect=true)
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=mertinkotr&show_icons=true&count_private=true&hide=contribs,issues" alt="mertinkotr's github stats" /></br>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertinkotr&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
-</details>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mertinkotr.readme)
 
