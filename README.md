@@ -3,13 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/mrtsntrk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrtsntrk/)
 
 <details align="center">
-  <summary style="font-weight: bold; font-size: 18px">İlgi Alanlarım</summary>
-  ![Csharp](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=c#)
-  ![HTML5](https://img.shields.io/badge/html5-cD1?style=for-the-badge&logo=html5&logoColor=blue)
-  ![CSS3](https://img.shields.io/badge/css3-cD1?style=for-the-badge&logo=css3&logoColor=blue)
-  ![JavaScript](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=blue)
-  ![jQuery](https://img.shields.io/badge/jquery-cD1?style=for-the-badge&logo=jquery&logoColor=blue)
-  
+<summary style="font-weight: bold; font-size: 18px">İlgi Alanlarım</summary>
+![Csharp](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=c#)
+![HTML5](https://img.shields.io/badge/html5-cD1?style=for-the-badge&logo=html5&logoColor=blue)
+![CSS3](https://img.shields.io/badge/css3-cD1?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=blue)
+![jQuery](https://img.shields.io/badge/jquery-cD1?style=for-the-badge&logo=jquery&logoColor=blue)
 </details>
 ### Connect with me:
 
@@ -32,6 +31,8 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertinkotr&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 </details>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mertinkotr.readme)
 
 [website]: https://mertsenturk.net
 [course]: https://mertsenturk.net
