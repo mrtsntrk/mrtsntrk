@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/mrtsntrk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrtsntrk/)
 
-<details align="center">
+<details>
   <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
   
 ![Csharp](https://img.shields.io/badge/csharp-cD2?style=for-the-badge&logo=C+sharp)
