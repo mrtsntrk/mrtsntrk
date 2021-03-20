@@ -1,4 +1,5 @@
-### Hi there, I'm Mert ŞENTÜRK [My Web Site][website] 👋
+### Hi there, I'm Mert ŞENTÜRK [My Web Site][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 [![Linkedin Badge](https://img.shields.io/badge/mrtsntrk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrtsntrk/)
 
