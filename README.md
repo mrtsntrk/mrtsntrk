@@ -18,7 +18,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=mertinkotr&show_icons=true&theme=dark" /></br>
+  <img  src="https://github-readme-stats.vercel.app/api?username=mertinkotr&show_icons=true&theme=radical" /></br>
 
   <img  src="https://github-readme-stats.vercel.app/api?username=mertinkotr&show_icons=true&count_private=true&hide=contribs,issues" alt="mertinkotr's github stats" /></br>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertinkotr&layout=compact&hide=html,css" alt="My Top Langs" />
