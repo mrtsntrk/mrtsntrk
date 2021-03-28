@@ -1,5 +1,5 @@
 ### Hi there, I'm Mert ŞENTÜRK (SENTURK) [My Web Site][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![enter image description here](https://raw.githubusercontent.com/mrtsntrk/mrtsntrk/master/calisma.png)
+![İnformation](https://raw.githubusercontent.com/mrtsntrk/mrtsntrk/master/information.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/mrtsntrk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrtsntrk/)
 
