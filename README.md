@@ -43,7 +43,7 @@
 
 [website]: https://mertsenturk.net
 [course]: https://mertsenturk.net
-[twitter]: https://twitter.com/mrtsntrk41
+[twitter]: https://twitter.com/mertinkotr
 [youtube]: https://youtube.com/mrtsntrk
 [instagram]: https://instagram.com/mrtsntrk
 [linkedin]: https://www.linkedin.com/in/mrtsntrk/
