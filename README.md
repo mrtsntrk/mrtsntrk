@@ -18,6 +18,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p float="center">
+  ![](https://raw.githubusercontent.com/mrtsntrk/github-stats/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/generated/overview.svg)
+![](https://raw.githubusercontent.com/mrtsntrk/github-stats/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/generated/languages.svg)
+  
   <img  src="https://github-readme-stats.vercel.app/api?username=mrtsntrk&show_icons=true&theme=radical" /></br>
 
   <img  src="https://github-readme-stats.vercel.app/api?username=mrtsntrk&show_icons=true&count_private=true&hide=contribs,issues" alt="mertinkotr's github stats" /></br>
