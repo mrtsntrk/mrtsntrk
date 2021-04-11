@@ -18,8 +18,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p float="center">
-  ![](https://raw.githubusercontent.com/mrtsntrk/github-stats/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/generated/overview.svg)
-  ![](https://raw.githubusercontent.com/mrtsntrk/github-stats/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/generated/languages.svg)
+![](https://github.com/mrtsntrk/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/mrtsntrk/github-stats/blob/master/generated/languages.svg)
   <img  src="https://github-readme-stats.vercel.app/api?username=mrtsntrk&show_icons=true&theme=radical" /></br>
 
   <img  src="https://github-readme-stats.vercel.app/api?username=mrtsntrk&show_icons=true&count_private=true&hide=contribs,issues" alt="mertinkotr's github stats" /></br>
