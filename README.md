@@ -18,8 +18,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p float="center">
-  ![](https://raw.githubusercontent.com/mrtsntrk/github-stats/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/generated/overview.svg)
-![](https://raw.githubusercontent.com/mrtsntrk/github-stats/9880a9547b39da3a4df1f96145be8ce1cefbc07d/generated/languages.svg)
   
   <img  src="https://github-readme-stats.vercel.app/api?username=mrtsntrk&show_icons=true&theme=radical" /></br>
 
