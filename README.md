@@ -1,16 +1,55 @@
-<h3 align = "center"> Hindistan'dan tutkulu bir ön uç geliştiricisi </h3>
+### Hi there, I'm Mert ŞENTÜRK (SENTURK) [My Web Site][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![İnformation](https://raw.githubusercontent.com/mrtsntrk/mrtsntrk/master/information.png)
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=mrtsntrk&label=Profile%20views&color= 0e75b6 & style = flat "alt =" mrtsntrk "/> </p>
+[![Linkedin Badge](https://img.shields.io/badge/mrtsntrk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrtsntrk/)
 
-<p align =" left "> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src = "https://github-profile-trophy.vercel.app/?username=mrtsntrk" alt = "mrtsntrk" /> </a> </p>
+<details>
 
-<h3 align = "left"> Benimle bağlantı kurun: </ h3>
-<p align = "left">
-<a href="https://twitter.com/mertinkotr" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net /npm/simple-icons@3.0.1 / icons / twitter.svg "alt =" mertinkotr "height =" 30 "width =" 40 "/> </a>
-<a href="https://fb.com/mrtsntrk41" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/facebook.svg "alt =" mrtsntrk41 "height =" 30 "width =" 40 "/> </a>
-<a href =" https://www.youtube.com/c/mrtsntrk "target =" boş "> <img align =" center "src =" https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg "alt =" mrtsntrk "height =" 30 "genişlik = "40" /> </a>
+  <summary style="font-weight: bold; font-size: 18px">My Interests</summary> 
+  
+![Csharp](https://shields.io/badge/csharp-blue?logo=c-sharp&style=for-the-badge&labelColor=purple)
+![Python](https://shields.io/badge/python-blue?logo=python&style=for-the-badge&labelColor=F7CB42)
+![PHP](https://shields.io/badge/php-purple?logo=php&style=for-the-badge&labelColor=9FD1CF)
+![HTML5](https://img.shields.io/badge/html5-cD1?style=for-the-badge&logo=html5&logoColor=blue)
+![CSS3](https://img.shields.io/badge/css3-cD1?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=blue)
+![jQuery](https://img.shields.io/badge/jquery-cD1?style=for-the-badge&logo=jquery&logoColor=blue)
+
+</details>
+
+
+![](https://raw.githubusercontent.com/mrtsntrk/github-stats/07b2130a49614bbd042ca7a078a7125f9d751a29/generated/overview.svg)
+![](https://raw.githubusercontent.com/mrtsntrk/github-stats/07b2130a49614bbd042ca7a078a7125f9d751a29/generated/languages.svg)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+<p float="center">
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=mrtsntrk&show_icons=true&theme=radical" /></br>
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=mrtsntrk&show_icons=true&count_private=true&hide=contribs,issues" alt="mertinkotr's github stats" /></br>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtsntrk&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
+</details>
 
-<h3 align = "left"> Diller ve Araçlar: </h3>
-<p align = "left"> <a href="https://developer.android.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/ simgeler / android / android-original-wordmark.svg "alt =" android "width =" 40 "height =" 40 "/> </a> <a href =" https://www.arduino.cc/ "hedef = "_ blank"> <img src = "https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt = "arduino" width = "40" height = "40" /> </a> < a href = "https://www.cprogramming.com/" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original. svg "alt =" c "width = "40" height = "40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src = "https: // raw .githubusercontent.com / devicons / devicon / master / icons / csharp / csharp-original.svg "alt =" csharp "width =" 40 "height =" 40 "/> </a> <a href =" https: / /dotnet.microsoft.com/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg "alt =" dotnet "width =" 40 "height =" 40 "/> </a> <a href="https://git-scm.com/" target="_blank"> <img src =" https : //www.vectorlogo.zone / logos / git-scm / git-scm-icon.svg "alt =" git "width =" 40 "height =" 40 "/> </a> <a href =" https: //www.w3. org / html / "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "genişliği = "40" height = "40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src = "https : //www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg "alt =" illustrator "width =" 40 "height =" 40 "/> </a> <a href =" https: // www .java.com "target ="_blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg "alt =" java "width =" 40 "height =" 40 "/ > </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src = "https://raw.githubusercontent.com /devicons/devicon/master/icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> <a href =" https: //www.linux .org / "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "alt =" linux "width =" 40 "yükseklik ="40 "/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src =" https: //cdn.worldvectorlogo. com / logos / microsoft-sql-server.svg "alt =" mssql "width =" 40 "height =" 40 "/> </a> <a href =" https://www.mysql.com/ "hedef = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "40" yükseklik = "40" /> </a> <a href="https://nodejs.org" target="_blank"> <img src = "https: //raw.githubusercontent.com / devicons / devicon / master / icons / nodejs / nodejs-original-wordmark.svg "alt =" nodejs "width =" 40 "height =" 40 "/> </a> <a href =" https: // www.photoshop.com/en "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg "alt =" photoshop " width = "40" height = "40" /> </a> <a href="https://www.php.net" target="_blank"> <img src = "https: //raw.githubusercontent. com / devicons / devicon / master / icons / php / php-original.svg "alt =" php "width =" 40 "height =" 40 "/> </a> <a href =" https: // www. python.org "target ="_blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "alt =" python "width =" 40 "height =" 40 "/ > </a> <a href="https://reactjs.org/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/ react-original-wordmark.svg "alt =" react "width =" 40 "height =" 40 "/> </a> <a href="https://unity.com/" target="_blank"> < img src = "https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt = "unity" width = "40" height = "40" /> </a> <a href = " https://vuejs.org/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg "alt =" vuejs "genişlik =" 40 "yükseklik =" 40 "/> </a> </p>
+### Connect with me:
 
+[<img align="left" alt="mertsenturk.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Mert ŞENTÜRK | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Mert ŞENTÜRK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Mert ŞENTÜRK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mert ŞENTÜRK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+</br></br>
+
+### Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrtsntrk41&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mrtsntrk41&redirect=true)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mrtsntrk.readme)
+
+[website]: https://mertsenturk.net
+[course]: https://mertsenturk.net
+[twitter]: https://twitter.com/mertinkotr
+[youtube]: https://youtube.com/mrtsntrk
+[instagram]: https://instagram.com/mrtsntrk
+[linkedin]: https://www.linkedin.com/in/mrtsntrk/
