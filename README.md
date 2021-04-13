@@ -15,11 +15,13 @@
 ![jQuery](https://img.shields.io/badge/jquery-cD1?style=for-the-badge&logo=jquery&logoColor=blue)
 </details>
 
+
+![](https://raw.githubusercontent.com/mrtsntrk/github-stats/07b2130a49614bbd042ca7a078a7125f9d751a29/generated/overview.svg)
+![](https://raw.githubusercontent.com/mrtsntrk/github-stats/07b2130a49614bbd042ca7a078a7125f9d751a29/generated/languages.svg)
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p float="center">
-![](https://raw.githubusercontent.com/mrtsntrk/github-stats/07b2130a49614bbd042ca7a078a7125f9d751a29/generated/overview.svg)
-![](https://raw.githubusercontent.com/mrtsntrk/github-stats/07b2130a49614bbd042ca7a078a7125f9d751a29/generated/languages.svg)
+
   <img  src="https://github-readme-stats.vercel.app/api?username=mrtsntrk&show_icons=true&theme=radical" /></br>
 
   <img  src="https://github-readme-stats.vercel.app/api?username=mrtsntrk&show_icons=true&count_private=true&hide=contribs,issues" alt="mertinkotr's github stats" /></br>
