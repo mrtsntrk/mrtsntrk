@@ -5,7 +5,7 @@
 
 <details>
   <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
-  
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"> 
 ![Csharp](https://img.shields.io/badge/csharp-cD2?style=for-the-badge&logo=C+sharp&logoColor=blue)
 ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/php-cD1?style=for-the-badge&logo=php&logoColor=blue)
