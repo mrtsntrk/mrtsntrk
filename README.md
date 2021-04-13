@@ -4,7 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/mrtsntrk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrtsntrk/)
 
 <details>
-  <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
+
+  <summary style="font-weight: bold; font-size: 18px">My Interests</summary> 
 ![Csharp](https://img.shields.io/badge/csharp-cD2?style=for-the-badge&logo=C+sharp&logoColor=blue)
 ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/php-cD1?style=for-the-badge&logo=php&logoColor=blue)
