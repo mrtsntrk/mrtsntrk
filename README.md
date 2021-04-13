@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/mrtsntrk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrtsntrk/)
 
-
+<details>
   <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
 ![Csharp](https://img.shields.io/badge/csharp-cD2?style=for-the-badge&logo=C+sharp&logoColor=blue)
 ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)
@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/css3-cD1?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=blue)
 ![jQuery](https://img.shields.io/badge/jquery-cD1?style=for-the-badge&logo=jquery&logoColor=blue)
-
+</details>
 
 
 ![](https://raw.githubusercontent.com/mrtsntrk/github-stats/07b2130a49614bbd042ca7a078a7125f9d751a29/generated/overview.svg)
