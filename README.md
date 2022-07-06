@@ -1,4 +1,4 @@
-### Hi there, I'm Mert ŞENTÜRK (SENTURK) [My Web Site][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Mert ŞENTÜRK (SENTURK) [My Web Site][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 ![İnformation](https://raw.githubusercontent.com/mrtsntrk/mrtsntrk/master/information.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/mrtsntrk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrtsntrk/)
@@ -21,7 +21,7 @@
 ![](https://raw.githubusercontent.com/mrtsntrk/github-stats/07b2130a49614bbd042ca7a078a7125f9d751a29/generated/overview.svg)
 ![](https://raw.githubusercontent.com/mrtsntrk/github-stats/07b2130a49614bbd042ca7a078a7125f9d751a29/generated/languages.svg)
 <details>
-  <summary>:zap: GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g014BexZMoP1gqvSbLZSfYigjUvfcXkroScKlbbgo3008&rid=giphy.gif' width='75px'></summary>
+  <summary>:zap: GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g014BexZMoP1gqvSbLZSfYigjUvfcXkroScKlbbgo3008&rid=giphy.gif' width='75px' height='75px'></summary>
 <p float="center">
 
   <img  src="https://github-readme-stats.vercel.app/api?username=mrtsntrk&show_icons=true&theme=radical" /></br>
