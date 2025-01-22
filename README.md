@@ -44,7 +44,7 @@
 ### Spotify Playing 🎧
 [<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status.py" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/mrtsntrk41)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtsntrk&label=Profile%20views&color=0e75b6&style=flat" alt="mrtsntrk" /> </p>
 
 [website]: https://mertsenturk.net
 [course]: https://mertsenturk.net
