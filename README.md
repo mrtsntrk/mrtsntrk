@@ -45,7 +45,8 @@
 [<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status.py" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/mrtsntrk41)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=mrtsntrk.visitor-badge.issue.1)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mrtsntrk.mrtsntrk&left_color=green&right_color=red)
+
 
 
 [website]: https://mertsenturk.net
