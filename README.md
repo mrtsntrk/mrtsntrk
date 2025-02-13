@@ -46,8 +46,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtsntrk&label=Profile%20views&color=0e75b6&style=flat" alt="mrtsntrk" /> </p>
 
-[website]: https://mertsenturk.net
-[course]: https://mertsenturk.net
+[website]: https://www.mertsenturk.net
+[course]: https://www.mertsenturk.net
 [twitter]: https://twitter.com/mertinkotr
 [youtube]: https://youtube.com/mrtsntrk
 [instagram]: https://instagram.com/mrtsntrk
